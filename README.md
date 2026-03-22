@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hi, I'm Bhargavi 👋  <br><br>🎓 Computer Science Student with a strong interest in both development and data analytics  <br><br>💼 SAP Certified – Data Analyst (SAP Analytics Cloud)  <br><br>💻 Skilled in MERN Stack Development and building real-world applications  <br><br>I enjoy solving problems, creating user-friendly web apps, and analyzing data to drive better decisions.<br><br>🔧 Tech Stack:<br>- MERN Stack (MongoDB, Express, React, Node.js)<br>- JavaScript, HTML, CSS<br>- SAP Analytics Cloud  <br><br>🚀 Currently working on projects that combine development + data  <br><br>📫 Open to internships, collaborations, and learning opportunities
 
@@ -17,6 +16,6 @@ Hi, I'm Bhargavi 👋  <br><br>🎓 Computer Science Student with a strong inter
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codebird913&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=codebird913&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
